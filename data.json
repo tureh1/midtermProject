@@ -1,0 +1,64 @@
+
+[
+  {
+    "name": "Gucci Top",
+    "imageUrl": "./images/guccitop.avif",
+    "price": 1100
+  },
+  {
+    "name": "Rick Owens Top",
+    "imageUrl": "./images/rickowenstop.avif",
+    "price": 4300
+  },
+  {
+    "name": "Burberry Top",
+    "imageUrl": "./images/burberrytop.avif",
+    "price": 2850
+  },
+  {
+    "name": "Givenchy Top",
+    "imageUrl": "./images/givenchytop.avif",
+    "price": 2300
+  },
+  {
+    "name": "Bape Top",
+    "imageUrl": "./images/bapetop.avif",
+    "price": 1800
+  },
+  {
+    "name": "Balenciaga Top",
+    "imageUrl": "./images/balenciagatop.avif",
+    "price": 1300
+  },
+  {
+    "name": "Rick Owens Pants",
+    "imageUrl": "./images/rickowens.avif",
+    "price": 2200
+  },
+  {
+    "name": "Gucci Pants",
+    "imageUrl": "./images/gucci.avif",
+    "price": 1100
+  },
+  {
+    "name": "Burberry Pants",
+    "imageUrl": "./images/burberry.avif",
+    "price": 2850
+  },
+  {
+    "name": "Givenchy Pants",
+    "imageUrl": "./images/givenchy.avif",
+    "price": 2300
+  },
+  {
+    "name": "Laurel Sweatpants",
+    "imageUrl": "./images/laurelsweatpants.avif",
+    "price": 1800
+  },
+  {
+    "name": "Balenciaga Pants",
+    "imageUrl": "./images/balenciaga.avif",
+    "price": 9000
+  }
+  
+]
